@@ -63,7 +63,7 @@ I'm interested in:
 * AI-driven threat modeling and lab automation
 
  Email: `orlychikka@gmail.com`
- LinkedIn: [linkedin.com/in/orlytrix](https://linkedin.com/in/orlytrix)
+ LinkedIn: [linkedin.com/in/orlytrix](https://linkedin.com/in/orlando-t-3893416b?)
  GitHub Discussions: enabled on select projects
 
 ---
