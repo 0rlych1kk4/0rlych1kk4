@@ -23,7 +23,7 @@ I’m a dedicated and focused **Rust developer with 9+ years** of embedded syste
 
 Optimizes Solana validator performance with snapshot prefetching, RPC caching, and Prometheus metrics.
 
->  320+ downloads in 2 weeks | MIT Licensed | Production-ready
+>  450+ downloads in 2 weeks | MIT Licensed | Production-ready
 >  [View on crates.io](https://crates.io/crates/solana-validator-optimizer)
 
 ###  `quantum_hsm`
