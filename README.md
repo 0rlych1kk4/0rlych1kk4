@@ -2,7 +2,7 @@
 
 I design and build post-quantum secure infrastructure in Rust, with a focus on long-lived key management and production systems.
 
-📘 Architecture & threat model: [quantum-vault-architecture](https://github.com/Orlych1kk4/quantum-vault-architecture)
+Architecture & threat model: [quantum-vault-architecture](https://github.com/Orlych1kk4/quantum-vault-architecture)
 
 
 [![Crates.io](https://img.shields.io/crates/v/solana-validator-optimizer.svg)](https://crates.io/crates/solana-validator-optimizer)
