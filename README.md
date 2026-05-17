@@ -6,6 +6,8 @@ I am also developing **Quantum-Safe Agentic Infrastructure**: a practical framew
 
 This framework connects my work in Rust, post-quantum cryptography, quantum-safe key management, agentic AI security, blast-radius simulation, reproducible quantum compilation, and distributed systems reliability.
 
+My goal is to define and build a practical foundation for secure infrastructure in the post-quantum and agentic AI era.
+
 Manifesto: [quantum-safe-agentic-infrastructure](https://github.com/0rlych1kk4/quantum-safe-agentic-infrastructure)
 
 Architecture & threat model: [quantum-vault-architecture](https://github.com/Orlych1kk4/quantum-vault-architecture)
