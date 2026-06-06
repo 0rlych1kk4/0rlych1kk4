@@ -69,8 +69,8 @@ Multi-signature wallet with SPHINCS+, quantum-resistant HSM signing, and hybrid 
 
 ## Stats
 
-* Over **300+ stars** across security and cryptography repos
-* **Crate author** with public packages on [crates.io](https://crates.io/users/0rlych1kk4)
+* Growing open-source portfolio across Rust, security, cryptography, and infrastructure projects
+* **Crate author** with multiple public Rust packages on crates.io, including oqs-safe and solana-validator-optimizer
 * Actively developing security simulation labs and agentic AI threat testbeds
 * Creator of the **Quantum-Safe Agentic Infrastructure** framework
 
@@ -86,7 +86,7 @@ I'm interested in:
 * Quantum-safe infrastructure architecture and Rust-based security tooling
 
 Email: `orlychikka@gmail.com`  
-LinkedIn: [linkedin.com/in/orlytrix](https://linkedin.com/in/orlando-t-3893416b?)  
+LinkedIn: (https://linkedin.com/in/orlando-t-3893416b?)  
 GitHub Discussions: enabled on select projects
 
 ---
