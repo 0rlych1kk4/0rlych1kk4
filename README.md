@@ -20,13 +20,6 @@ I’m a dedicated and focused **Rust developer with 9+ years** of embedded syste
 
 ---
 
-## Open Source Contributions
-
-- **Open Quantum Safe / liboqs-rust** — Updated the Rust wrapper for latest `liboqs` algorithm renames, including HQC and SPHINCS+/SLH-DSA mappings. Helped resolve cross-platform CI issues across Windows and macOS arm64 for the latest `liboqs` update path.  
-  PR: [open-quantum-safe/liboqs-rust#309](https://github.com/open-quantum-safe/liboqs-rust/pull/309)
-
----
-
 ## My Focus Areas
 
 * **Quantum-Safe Agentic Infrastructure**
