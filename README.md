@@ -23,7 +23,7 @@ Architecture & threat model: [quantum-vault-architecture](https://github.com/Orl
 [![Crates.io](https://img.shields.io/crates/v/solana-validator-optimizer.svg)](https://crates.io/crates/solana-validator-optimizer)
 [![Docs.rs](https://docs.rs/solana-validator-optimizer/badge.svg)](https://docs.rs/solana-validator-optimizer)
 
-Systems and security engineer with 9+ years of experience across infrastructure, embedded systems, security, and performance-sensitive software, with a current focus on Rust and post-quantum systems. My work bridges modern cryptographic tooling, quantum-safe protocols, and real-world validator optimization.
+Systems and security engineer with 9+ years of experience across infrastructure, embedded systems, security, and performance-sensitive software, with a current focus on Rust and post-quantum systems.
 
 ---
 
