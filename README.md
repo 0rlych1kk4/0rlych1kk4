@@ -1,12 +1,19 @@
 ## About
 
-I design and build post-quantum secure infrastructure in Rust, with a focus on long-lived key management and production systems.
+**Rust Systems Engineer | Post-Quantum Security | Distributed & Autonomous Systems**
 
-I am also developing **Quantum-Safe Agentic Infrastructure**: a practical framework for securing the next generation of AI-driven, post-quantum, and distributed digital systems.
+I build secure, reliability-critical infrastructure in Rust, with current work spanning post-quantum cryptography, distributed systems, embedded/aerospace software, and portable runtimes.
 
-This framework connects my work in Rust, post-quantum cryptography, quantum-safe key management, agentic AI security, blast-radius simulation, reproducible quantum compilation, and distributed systems reliability.
+My open-source work includes contributions across post-quantum cryptography, aerospace/telemetry, distributed reliability, and systems software.
 
-My goal is to define and build a practical foundation for secure infrastructure in the post-quantum and agentic AI era.
+I am developing **Quantum-Safe Agentic Infrastructure**: a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
+
+**Current focus**
+- Post-quantum cryptography and secure key infrastructure
+- Rust systems and runtime engineering
+- Distributed systems reliability
+- Embedded, aerospace, and autonomous systems
+- Secure sandboxed execution
 
 Manifesto: [quantum-safe-agentic-infrastructure](https://github.com/0rlych1kk4/quantum-safe-agentic-infrastructure)
 
@@ -16,18 +23,31 @@ Architecture & threat model: [quantum-vault-architecture](https://github.com/Orl
 [![Crates.io](https://img.shields.io/crates/v/solana-validator-optimizer.svg)](https://crates.io/crates/solana-validator-optimizer)
 [![Docs.rs](https://docs.rs/solana-validator-optimizer/badge.svg)](https://docs.rs/solana-validator-optimizer)
 
-I’m a dedicated and focused **Rust developer with 9+ years** of embedded systems, blockchain infrastructure, and AI security experience. My work bridges modern cryptographic tooling, quantum-safe protocols, and real-world validator optimization.
+Systems and security engineer with 9+ years of experience across infrastructure, embedded systems, security, and performance-sensitive software, with a current focus on Rust and post-quantum systems. My work bridges modern cryptographic tooling, quantum-safe protocols, and real-world validator optimization.
+
+---
+
+## Upstream Open-Source Contributions
+
+I contribute to systems projects where correctness, portability, security, and reliability matter.
+
+- **Open Quantum Safe / liboqs-rust** — post-quantum cryptography, Rust/C interoperability, build portability, CI, and platform-specific issues
+- **rust-mavlink** — MAVLink protocol tooling and aerospace/telemetry systems in Rust
+- **sat-rs** — spacecraft and embedded Rust software
+- **Ericsson ecChronos** — distributed scheduling, repair, and reliability
+- **WASM/runtime projects** — portable and sandboxed systems execution
+
 
 ---
 
 ## My Focus Areas
 
-* **Quantum-Safe Agentic Infrastructure**
-* **Quantum-Resistant Security**
-* **Validator Optimization & Performance**
-* **HSM Integration & Cryptography**
-* **AI-Driven Security Simulations**
-* **Rust Crate Author**
+- **Rust Systems Engineering**
+- **Post-Quantum Cryptography**
+- **Secure Key Management & HSMs**
+- **Distributed Systems Reliability**
+- **Embedded & Aerospace Systems**
+- **Secure Runtime / WASM Infrastructure**
 
 ---
 
@@ -67,23 +87,25 @@ Multi-signature wallet with SPHINCS+, quantum-resistant HSM signing, and hybrid 
 
 ---
 
-## Stats
+## Engineering Highlights
 
-* Growing open-source portfolio across Rust, security, cryptography, and infrastructure projects
-* **Crate author** with multiple public Rust packages on crates.io, including oqs-safe and solana-validator-optimizer
-* Actively developing security simulation labs and agentic AI threat testbeds
-* Creator of the **Quantum-Safe Agentic Infrastructure** framework
+- Contributor to upstream Rust, cryptography, aerospace, and distributed-systems projects
+- Author of multiple public Rust crates
+- Building practical post-quantum security and key-management infrastructure
+- Developing secure runtime and autonomous-systems architecture in Rust
 
 ---
 
-## Let’s Collaborate
+## Open to Collaboration & Opportunities
 
 I'm interested in:
 
-* Research partnerships in quantum-safe protocols, cryptanalysis, and simulation tools
-* Financial infrastructure pilots involving validator nodes, tokenization, and secure key management
-* AI-driven threat modeling, agentic AI security testing, and lab automation
-* Quantum-safe infrastructure architecture and Rust-based security tooling
+- Rust systems engineering
+- Post-quantum cryptography and secure infrastructure
+- Distributed systems and reliability engineering
+- Aerospace, embedded, and autonomous systems
+- Secure runtimes, WASM, and edge infrastructure
+- Research collaborations involving PQC and systems security
 
 Email: `orlychikka@gmail.com`  
 LinkedIn: (https://linkedin.com/in/orlando-t-3893416b?)  
