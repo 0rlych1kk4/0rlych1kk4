@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**51 merged pull requests across 9 external repositories.** Automatically generated from my upstream GitHub contributions.
+**52 merged pull requests across 10 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -106,6 +106,12 @@ I contribute to systems projects where correctness, portability, security, and r
 | PR | Contribution |
 | --- | --- |
 | [#2508](https://github.com/open-quantum-safe/liboqs/pull/2508) | Fix ARM SHA2 build with AppleClang on macOS |
+
+### [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) — 1 merged PR
+
+| PR | Contribution |
+| --- | --- |
+| [#309](https://github.com/open-quantum-safe/liboqs-rust/pull/309) | fix: update wrapper for latest liboqs algorithm names |
 
 ### [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — 1 merged PR
 
