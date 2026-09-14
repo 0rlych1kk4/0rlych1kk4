@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**53 merged pull requests across 10 external repositories.** Automatically generated from my upstream GitHub contributions.
+**54 merged pull requests across 11 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -125,6 +125,12 @@ I contribute to systems projects where correctness, portability, security, and r
 | PR | Contribution |
 | --- | --- |
 | [#4](https://github.com/us-irs/sat-rs/pull/4) | fix: correct CCSDS packet length calculation |
+
+### [us-irs/spacepackets-rs](https://github.com/us-irs/spacepackets-rs) — 1 merged PR
+
+| PR | Contribution |
+| --- | --- |
+| [#15](https://github.com/us-irs/spacepackets-rs/pull/15) | fix(time): correct CUC counter rollover modulus |
 
 <!-- MERGED-PRS:END -->
 
