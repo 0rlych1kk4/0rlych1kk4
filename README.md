@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**54 merged pull requests across 11 external repositories.** Automatically generated from my upstream GitHub contributions.
+**55 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -131,6 +131,12 @@ I contribute to systems projects where correctness, portability, security, and r
 | PR | Contribution |
 | --- | --- |
 | [#15](https://github.com/us-irs/spacepackets-rs/pull/15) | fix(time): correct CUC counter rollover modulus |
+
+### [us-irs/vorago-rs](https://github.com/us-irs/vorago-rs) — 1 merged PR
+
+| PR | Contribution |
+| --- | --- |
+| [#4](https://github.com/us-irs/vorago-rs/pull/4) | flashloader: reject short memory write payloads |
 
 <!-- MERGED-PRS:END -->
 
