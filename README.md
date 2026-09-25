@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**56 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
+**57 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -107,12 +107,13 @@ I contribute to systems projects where correctness, portability, security, and r
 | --- | --- |
 | [#2508](https://github.com/open-quantum-safe/liboqs/pull/2508) | Fix ARM SHA2 build with AppleClang on macOS |
 
-### [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) — 3 merged PRs
+### [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) — 4 merged PRs
 
 | PR | Contribution |
 | --- | --- |
 | [#313](https://github.com/open-quantum-safe/liboqs-rust/pull/313) | refactor: generate signature algorithm metadata from liboqs |
 | [#312](https://github.com/open-quantum-safe/liboqs-rust/pull/312) | feat: expose padded Falcon signature algorithms |
+| [#310](https://github.com/open-quantum-safe/liboqs-rust/pull/310) | feat: implement RustCrypto traits for signatures |
 | [#309](https://github.com/open-quantum-safe/liboqs-rust/pull/309) | fix: update wrapper for latest liboqs algorithm names |
 
 ### [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — 1 merged PR
