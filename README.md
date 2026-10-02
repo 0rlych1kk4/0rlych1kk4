@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**61 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
+**62 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -51,17 +51,17 @@ I contribute to systems projects where correctness, portability, security, and r
 | --- | --- |
 | [#4777](https://github.com/Ericsson/codechecker/pull/4777) | docker: add container HEALTHCHECK |
 
-### [Ericsson/ecchronos](https://github.com/Ericsson/ecchronos) — 10 merged PRs
+### [Ericsson/ecchronos](https://github.com/Ericsson/ecchronos) — 11 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#1861](https://github.com/Ericsson/ecchronos/pull/1861) | Fix saturation backoff overflow after prolonged client saturation |
 | [#1859](https://github.com/Ericsson/ecchronos/pull/1859) | Fix scheduler concurrency cap after node removal |
 | [#1769](https://github.com/Ericsson/ecchronos/pull/1769) | test: verify node registration before scheduling |
 | [#1742](https://github.com/Ericsson/ecchronos/pull/1742) | test: add ConfigurationHelper regression coverage |
 | [#1708](https://github.com/Ericsson/ecchronos/pull/1708) | test: cover successful scheduled job not rerun before interval |
-| [#1660](https://github.com/Ericsson/ecchronos/pull/1660) | test: add focused coverage for session lock pooling |
 
-[View all 10 merged PRs in Ericsson/ecchronos](https://github.com/Ericsson/ecchronos/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 11 merged PRs in Ericsson/ecchronos](https://github.com/Ericsson/ecchronos/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [hansonp303/rust_checker](https://github.com/hansonp303/rust_checker) — 23 merged PRs
 
