@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**62 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
+**63 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -125,10 +125,11 @@ I contribute to systems projects where correctness, portability, security, and r
 | --- | --- |
 | [#7923](https://github.com/tokio-rs/tokio/pull/7923) | task: clarify when to use spawn_blocking vs dedicated threads |
 
-### [ustgt-irs/sat-rs](https://github.com/ustgt-irs/sat-rs) — 1 merged PR
+### [ustgt-irs/sat-rs](https://github.com/ustgt-irs/sat-rs) — 2 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#6](https://github.com/ustgt-irs/sat-rs/pull/6) | fix Clippy 1.99 redundant field name lint |
 | [#4](https://github.com/ustgt-irs/sat-rs/pull/4) | fix: correct CCSDS packet length calculation |
 
 ### [ustgt-irs/spacepackets-rs](https://github.com/ustgt-irs/spacepackets-rs) — 1 merged PR
