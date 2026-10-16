@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**63 merged pull requests across 12 external repositories.** Automatically generated from my upstream GitHub contributions.
+**64 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -86,6 +86,12 @@ I contribute to systems projects where correctness, portability, security, and r
 | [#9](https://github.com/malekchule/nanobot_control_system/pull/9) | feat: implement file-based persistence for NanobotTask in TaskManager |
 
 [View all 11 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+
+### [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) — 1 merged PR
+
+| PR | Contribution |
+| --- | --- |
+| [#15243](https://github.com/mavlink/qgroundcontrol/pull/15243) | Fix AVAILABLE_MODES download when sequence changes |
 
 ### [mavlink/rust-mavlink](https://github.com/mavlink/rust-mavlink) — 2 merged PRs
 
