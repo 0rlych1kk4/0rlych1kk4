@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**64 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**68 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -75,17 +75,17 @@ I contribute to systems projects where correctness, portability, security, and r
 
 [View all 23 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 11 merged PRs
+### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 15 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#17](https://github.com/malekchule/nanobot_control_system/pull/17) | fix(build): expose library modules for integration tests |
+| [#16](https://github.com/malekchule/nanobot_control_system/pull/16) | fix(swarm): access tasks through read-only iterator |
+| [#15](https://github.com/malekchule/nanobot_control_system/pull/15) | fix(crypto): resolve NTRU dependency and encapsulation order |
+| [#14](https://github.com/malekchule/nanobot_control_system/pull/14) | fix(plugins): reject duplicate plugin registration |
 | [#13](https://github.com/malekchule/nanobot_control_system/pull/13) | Plugin system |
-| [#12](https://github.com/malekchule/nanobot_control_system/pull/12) | feat: integrate Prometheus task and unit metrics into main logic |
-| [#11](https://github.com/malekchule/nanobot_control_system/pull/11) | feat: expose Prometheus metrics for task execution and active units |
-| [#10](https://github.com/malekchule/nanobot_control_system/pull/10) | feat: add NanobotSwarm and NanobotUnit for simulating multi-bot envir… |
-| [#9](https://github.com/malekchule/nanobot_control_system/pull/9) | feat: implement file-based persistence for NanobotTask in TaskManager |
 
-[View all 11 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 15 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) — 1 merged PR
 
