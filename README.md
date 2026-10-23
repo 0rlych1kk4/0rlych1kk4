@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**73 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**78 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -75,17 +75,17 @@ I contribute to systems projects where correctness, portability, security, and r
 
 [View all 23 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 19 merged PRs
+### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 24 merged PRs
 
 | PR | Contribution |
 | --- | --- |
-| [#22](https://github.com/malekchule/nanobot_control_system/pull/22) | fix(task-manager): implement Default for TaskManager |
-| [#20](https://github.com/malekchule/nanobot_control_system/pull/20) | docs: describe nanorobotics architecture and clarify authorship |
-| [#19](https://github.com/malekchule/nanobot_control_system/pull/19) | fix(crypto): replace XOR encryption with NTRU KEM and AES-256-GCM |
-| [#18](https://github.com/malekchule/nanobot_control_system/pull/18) | fix(crypto): replace XOR signatures with ML-DSA-65 |
-| [#17](https://github.com/malekchule/nanobot_control_system/pull/17) | fix(build): expose library modules for integration tests |
+| [#27](https://github.com/malekchule/nanobot_control_system/pull/27) | fix(swarm): report unknown unit during task assignment |
+| [#26](https://github.com/malekchule/nanobot_control_system/pull/26) | fix(plugins): return plugin names in deterministic order |
+| [#25](https://github.com/malekchule/nanobot_control_system/pull/25) | fix(plugins): implement Default for PluginManager |
+| [#24](https://github.com/malekchule/nanobot_control_system/pull/24) | fix(task-manager): reject malformed task file records |
+| [#23](https://github.com/malekchule/nanobot_control_system/pull/23) | chore: ignore macOS metadata files |
 
-[View all 19 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 24 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) — 1 merged PR
 
