@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**88 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**92 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -63,29 +63,29 @@ I contribute to systems projects where correctness, portability, security, and r
 
 [View all 11 merged PRs in Ericsson/ecchronos](https://github.com/Ericsson/ecchronos/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [hansonp303/rust_checker](https://github.com/hansonp303/rust_checker) — 23 merged PRs
+### [hansonp303/rust_checker](https://github.com/hansonp303/rust_checker) — 26 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#31](https://github.com/hansonp303/rust_checker/pull/31) | fix(cargo): resolve duplicate manifest keys |
+| [#30](https://github.com/hansonp303/rust_checker/pull/30) | ci: migrate artifact actions to v4 |
+| [#29](https://github.com/hansonp303/rust_checker/pull/29) | chore: ignore macOS metadata files |
 | [#28](https://github.com/hansonp303/rust_checker/pull/28) | Feature/junit xml export |
 | [#27](https://github.com/hansonp303/rust_checker/pull/27) | Add JUnit XML export to target/report.xml for CI reporting |
-| [#26](https://github.com/hansonp303/rust_checker/pull/26) | Fix: use actions-rs/toolchain@v1 for Rust setup in CI |
-| [#25](https://github.com/hansonp303/rust_checker/pull/25) | Add GitHub Actions CI workflow for rust_checker |
-| [#24](https://github.com/hansonp303/rust_checker/pull/24) | Add plugin template generator with --gen-plugin <name> |
 
-[View all 23 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 26 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 34 merged PRs
+### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 35 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#38](https://github.com/malekchule/nanobot_control_system/pull/38) | test(task-manager): clean up temporary files after panics |
 | [#37](https://github.com/malekchule/nanobot_control_system/pull/37) | fix(task-manager): propagate task file flush errors |
 | [#36](https://github.com/malekchule/nanobot_control_system/pull/36) | feat(plugins): support plugin unregistration |
 | [#35](https://github.com/malekchule/nanobot_control_system/pull/35) | fix(swarm): support binary message payloads |
 | [#34](https://github.com/malekchule/nanobot_control_system/pull/34) | fix(task-manager): handle missing files during open |
-| [#33](https://github.com/malekchule/nanobot_control_system/pull/33) | test(task-manager): isolate temporary files in parallel tests |
 
-[View all 34 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 35 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) — 1 merged PR
 
