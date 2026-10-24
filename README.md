@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**79 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**84 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -75,17 +75,17 @@ I contribute to systems projects where correctness, portability, security, and r
 
 [View all 23 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 25 merged PRs
+### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 30 merged PRs
 
 | PR | Contribution |
 | --- | --- |
-| [#28](https://github.com/malekchule/nanobot_control_system/pull/28) | fix(task-manager): reject multiline task descriptions |
-| [#27](https://github.com/malekchule/nanobot_control_system/pull/27) | fix(swarm): report unknown unit during task assignment |
-| [#26](https://github.com/malekchule/nanobot_control_system/pull/26) | fix(plugins): return plugin names in deterministic order |
-| [#25](https://github.com/malekchule/nanobot_control_system/pull/25) | fix(plugins): implement Default for PluginManager |
-| [#24](https://github.com/malekchule/nanobot_control_system/pull/24) | fix(task-manager): reject malformed task file records |
+| [#33](https://github.com/malekchule/nanobot_control_system/pull/33) | test(task-manager): isolate temporary files in parallel tests |
+| [#32](https://github.com/malekchule/nanobot_control_system/pull/32) | fix(swarm): reject duplicate task assignments per unit |
+| [#31](https://github.com/malekchule/nanobot_control_system/pull/31) | fix(plugins): reject empty plugin names |
+| [#30](https://github.com/malekchule/nanobot_control_system/pull/30) | fix(task-manager): reject duplicate task IDs on save |
+| [#29](https://github.com/malekchule/nanobot_control_system/pull/29) | fix(task-manager): reject duplicate persisted task IDs |
 
-[View all 25 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 30 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) — 1 merged PR
 
