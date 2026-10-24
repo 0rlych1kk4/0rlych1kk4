@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**92 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**93 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -63,17 +63,17 @@ I contribute to systems projects where correctness, portability, security, and r
 
 [View all 11 merged PRs in Ericsson/ecchronos](https://github.com/Ericsson/ecchronos/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [hansonp303/rust_checker](https://github.com/hansonp303/rust_checker) — 26 merged PRs
+### [hansonp303/rust_checker](https://github.com/hansonp303/rust_checker) — 27 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#32](https://github.com/hansonp303/rust_checker/pull/32) | fix(lib): expose configuration module |
 | [#31](https://github.com/hansonp303/rust_checker/pull/31) | fix(cargo): resolve duplicate manifest keys |
 | [#30](https://github.com/hansonp303/rust_checker/pull/30) | ci: migrate artifact actions to v4 |
 | [#29](https://github.com/hansonp303/rust_checker/pull/29) | chore: ignore macOS metadata files |
 | [#28](https://github.com/hansonp303/rust_checker/pull/28) | Feature/junit xml export |
-| [#27](https://github.com/hansonp303/rust_checker/pull/27) | Add JUnit XML export to target/report.xml for CI reporting |
 
-[View all 26 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 27 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 35 merged PRs
 
