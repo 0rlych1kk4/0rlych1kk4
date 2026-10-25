@@ -43,7 +43,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**93 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**94 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -75,17 +75,17 @@ I contribute to systems projects where correctness, portability, security, and r
 
 [View all 27 merged PRs in hansonp303/rust_checker](https://github.com/hansonp303/rust_checker/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
-### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 35 merged PRs
+### [malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system) — 36 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#39](https://github.com/malekchule/nanobot_control_system/pull/39) | fix(task-manager): reject blank task descriptions |
 | [#38](https://github.com/malekchule/nanobot_control_system/pull/38) | test(task-manager): clean up temporary files after panics |
 | [#37](https://github.com/malekchule/nanobot_control_system/pull/37) | fix(task-manager): propagate task file flush errors |
 | [#36](https://github.com/malekchule/nanobot_control_system/pull/36) | feat(plugins): support plugin unregistration |
 | [#35](https://github.com/malekchule/nanobot_control_system/pull/35) | fix(swarm): support binary message payloads |
-| [#34](https://github.com/malekchule/nanobot_control_system/pull/34) | fix(task-manager): handle missing files during open |
 
-[View all 35 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+[View all 36 merged PRs in malekchule/nanobot_control_system](https://github.com/malekchule/nanobot_control_system/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
 
 ### [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) — 1 merged PR
 
