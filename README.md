@@ -248,6 +248,10 @@ Multi-signature wallet with SPHINCS+, quantum-resistant HSM signing, and hybrid 
 
 ## Open to Collaboration & Opportunities
 
+Open to international engineering opportunities in Rust systems development, post-quantum cryptography, distributed systems, and embedded/aerospace software.
+
+Available for remote collaboration and relocation opportunities, particularly in Switzerland and other European technology hubs.
+
 I'm interested in:
 
 - Rust systems engineering
