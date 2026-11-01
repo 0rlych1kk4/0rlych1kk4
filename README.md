@@ -27,6 +27,40 @@ Systems and security engineer with 9+ years of experience across infrastructure,
 
 ---
 
+## Selected Upstream Engineering Impact
+
+### QGroundControl / PX4 — MAVLink Flight-Mode Reliability
+
+**Merged upstream:** [QGroundControl PR #15243](https://github.com/mavlink/qgroundcontrol/pull/15243)
+
+Implemented a fix for MAVLink `AVAILABLE_MODES` enumeration that restarts the download when the response sequence changes, preventing inconsistent flight-mode lists.
+
+**Independent cross-project acknowledgment:** [PX4-Autopilot Issue #28936](https://github.com/PX4/PX4-Autopilot/issues/28936)
+
+A PX4 contributor subsequently referenced PR #15243 as the fix when closing a related issue involving unexpected flight-mode behavior following a soft reboot.
+
+**Engineering focus:** C++, MAVLink protocol correctness, asynchronous state handling, and aerospace ground-control software.
+
+### Open Quantum Safe — Post-Quantum Cryptography
+
+**Merged upstream:** [liboqs PR #2582](https://github.com/open-quantum-safe/liboqs/pull/2582)
+
+Contributed to QR-UOV signature-scheme integration, including AES backend consolidation, cross-platform build compatibility, and cryptographic validation.
+
+**Engineering focus:** Post-quantum cryptography, C, cryptographic integration, and cross-platform software reliability.
+
+### Ericsson ecChronos — Distributed Systems Reliability
+
+Contributed upstream fixes addressing scheduler concurrency, saturation backoff, and distributed scheduling behavior.
+
+**Selected contributions:**
+- [PR #1861 — Saturation backoff overflow](https://github.com/Ericsson/ecchronos/pull/1861)
+- [PR #1859 — Scheduler concurrency after node removal](https://github.com/Ericsson/ecchronos/pull/1859)
+
+**Engineering focus:** Distributed scheduling, concurrency correctness, reliability, and fault handling.
+
+---
+
 ## Upstream Open-Source Contributions
 
 I contribute to systems projects where correctness, portability, security, and reliability matter.
