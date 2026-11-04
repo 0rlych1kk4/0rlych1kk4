@@ -77,7 +77,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**96 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**97 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -141,10 +141,11 @@ I contribute to systems projects where correctness, portability, security, and r
 | [#121](https://github.com/nebari-dev/nebari-infrastructure-core/pull/121) | CI: Automatically regenerate OpenTofu lockfiles for provider templates |
 | [#89](https://github.com/nebari-dev/nebari-infrastructure-core/pull/89) | test: add unit tests for GetKubeconfig (fixes #9) |
 
-### [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) — 2 merged PRs
+### [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) — 3 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#2643](https://github.com/open-quantum-safe/liboqs/pull/2643) | refactor(qruov): deduplicate signature wrappers across implementations |
 | [#2582](https://github.com/open-quantum-safe/liboqs/pull/2582) | Add QR-UOV signature schemes |
 | [#2508](https://github.com/open-quantum-safe/liboqs/pull/2508) | Fix ARM SHA2 build with AppleClang on macOS |
 
