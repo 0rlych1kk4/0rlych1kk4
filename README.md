@@ -77,7 +77,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**98 merged pull requests across 13 external repositories.** Automatically generated from my upstream GitHub contributions.
+**99 merged pull requests across 14 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -161,6 +161,12 @@ I contribute to systems projects where correctness, portability, security, and r
 | [#309](https://github.com/open-quantum-safe/liboqs-rust/pull/309) | fix: update wrapper for latest liboqs algorithm names |
 
 [View all 6 merged PRs in open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust/pulls?q=is%3Apr+is%3Amerged+author%3A0rlych1kk4)
+
+### [qruov/round3-liboqs](https://github.com/qruov/round3-liboqs) — 1 merged PR
+
+| PR | Contribution |
+| --- | --- |
+| [#1](https://github.com/qruov/round3-liboqs/pull/1) | Add liboqs integration support for QR-UOV |
 
 ### [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — 1 merged PR
 
