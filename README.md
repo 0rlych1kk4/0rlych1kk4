@@ -77,7 +77,7 @@ I contribute to systems projects where correctness, portability, security, and r
 ## Merged Open-Source Contributions
 
 <!-- MERGED-PRS:START -->
-**100 merged pull requests across 14 external repositories.** Automatically generated from my upstream GitHub contributions.
+**101 merged pull requests across 14 external repositories.** Automatically generated from my upstream GitHub contributions.
 
 ### [Ericsson/codechecker](https://github.com/Ericsson/codechecker) — 1 merged PR
 
@@ -127,10 +127,11 @@ I contribute to systems projects where correctness, portability, security, and r
 | --- | --- |
 | [#15243](https://github.com/mavlink/qgroundcontrol/pull/15243) | Fix AVAILABLE_MODES download when sequence changes |
 
-### [mavlink/rust-mavlink](https://github.com/mavlink/rust-mavlink) — 2 merged PRs
+### [mavlink/rust-mavlink](https://github.com/mavlink/rust-mavlink) — 3 merged PRs
 
 | PR | Contribution |
 | --- | --- |
+| [#528](https://github.com/mavlink/rust-mavlink/pull/528) | feat: add profiling support for MAVLink performance analysis |
 | [#521](https://github.com/mavlink/rust-mavlink/pull/521) | fix: decode XML entities in generated rustdoc |
 | [#520](https://github.com/mavlink/rust-mavlink/pull/520) | docs: add frame constants usage example |
 
