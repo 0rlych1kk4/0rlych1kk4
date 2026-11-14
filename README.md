@@ -41,6 +41,16 @@ A PX4 contributor subsequently referenced PR #15243 as the fix when closing a re
 
 **Engineering focus:** C++, MAVLink protocol correctness, asynchronous state handling, and aerospace ground-control software.
 
+### MAVLink / Rust — Performance & CI Engineering
+
+**Merged upstream:** [rust-mavlink PR #528](https://github.com/mavlink/rust-mavlink/pull/528)
+
+Implemented CI-based performance regression tooling for `rust-mavlink`, comparing pull-request builds against the base revision for compilation time and `libmavlink` artifact size.
+
+The implementation includes reusable local tooling and GitHub Actions integration, allowing performance measurements to be reproduced outside CI while keeping the workflow itself lightweight.
+
+**Engineering focus:** Rust, MAVLink, CI/CD, build-performance analysis, artifact-size regression tracking, and developer infrastructure.
+
 ### Open Quantum Safe — Post-Quantum Cryptography
 
 **Merged upstream:** [liboqs PR #2582](https://github.com/open-quantum-safe/liboqs/pull/2582)
