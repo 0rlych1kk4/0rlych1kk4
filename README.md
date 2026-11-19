@@ -41,6 +41,24 @@ A PX4 contributor subsequently referenced PR #15243 as the fix when closing a re
 
 **Engineering focus:** C++, MAVLink protocol correctness, asynchronous state handling, and aerospace ground-control software.
 
+### Space & Embedded Rust — Flight and Protocol Correctness
+
+Contributed upstream fixes across sat-rs, spacepackets-rs, and vorago-rs, covering spacecraft subsystem sequencing, CCSDS packet calculations, CUC time rollover, PLL operating bounds, and flashloader input validation.
+
+**Merged upstream:**
+
+- **sat-rs — PR #4:** correct CCSDS packet length calculation
+
+- **sat-rs — PR #5:** reject sequence tables exceeding u8 capacity
+
+- **spacepackets-rs — PR #15:** correct CUC counter rollover modulus
+
+- **vorago-rs — PR #4:** reject short flashloader memory-write payloads
+
+- **vorago-rs — PR #5:** enforce exact PLL VCO bounds
+
+**Engineering focus:** Rust, spacecraft software, CCSDS protocol correctness, embedded systems, boundary-condition validation, and hardware-facing reliability.
+
 ### MAVLink / Rust — Performance & CI Engineering
 
 **Merged upstream:** [rust-mavlink PR #528](https://github.com/mavlink/rust-mavlink/pull/528)
