@@ -48,13 +48,9 @@ Contributed upstream fixes across sat-rs, spacepackets-rs, and vorago-rs, coveri
 **Merged upstream:**
 
 - **sat-rs — PR #4:** correct CCSDS packet length calculation
-
 - **sat-rs — PR #5:** reject sequence tables exceeding u8 capacity
-
 - **spacepackets-rs — PR #15:** correct CUC counter rollover modulus
-
 - **vorago-rs — PR #4:** reject short flashloader memory-write payloads
-
 - **vorago-rs — PR #5:** enforce exact PLL VCO bounds
 
 **Engineering focus:** Rust, spacecraft software, CCSDS protocol correctness, embedded systems, boundary-condition validation, and hardware-facing reliability.
@@ -71,11 +67,20 @@ The implementation includes reusable local tooling and GitHub Actions integratio
 
 ### Open Quantum Safe — Post-Quantum Cryptography
 
-**Merged upstream:** [liboqs PR #2582](https://github.com/open-quantum-safe/liboqs/pull/2582)
+Contributed across liboqs, liboqs-rust, and the QR-UOV integration repository, covering post-quantum signature integration, shared cryptographic backends, Rust API exposure, metadata generation, portability, and importer reliability.
 
-Contributed to QR-UOV signature-scheme integration, including AES backend consolidation, cross-platform build compatibility, and cryptographic validation.
+**Selected upstream contributions:**
 
-**Engineering focus:** Post-quantum cryptography, C, cryptographic integration, and cross-platform software reliability.
+- **liboqs PR #2582** — Add QR-UOV signature schemes
+- **liboqs PR #2642** — Use the common AES backend for QR-UOV
+- **liboqs PR #2643** — Deduplicate QR-UOV signature wrappers
+- **liboqs PR #2654** — Fix importer handling for empty SIG/KEM implementation targets
+- **liboqs-rust PR #310** — Implement RustCrypto traits for signatures
+- **liboqs-rust PR #312** — Expose padded Falcon signature algorithms
+- **liboqs-rust PR #313** — Generate signature algorithm metadata from liboqs
+- **qruov/round3-liboqs PR #1** — Add liboqs integration support for QR-UOV
+
+**Engineering focus:** Post-quantum cryptography, C/Rust interoperability, cryptographic integration, API design, code generation, portability, and cross-platform reliability.
 
 ### Ericsson ecChronos — Distributed Systems Reliability
 
