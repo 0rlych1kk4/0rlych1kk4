@@ -2,11 +2,10 @@
 
 **liboqs-rust Maintainer — Open Quantum Safe (OQS) | Rust Systems Engineer | Applied Cryptography | Distributed & Autonomous Systems**
 
-I am a maintainer of liboqs-rust and a member of Open Quantum Safe (OQS), contributing to secure, portable, and maintainable post-quantum cryptographic infrastructure.
+I am a maintainer of liboqs-rust and a member of Open Quantum Safe (OQS), serving on both the liboqs-rust maintainers and release managers teams.
 
-My engineering work focuses on cryptographic correctness, Rust/C interoperability, API design, cross-platform reliability, and secure systems architecture.
-
-I build reliability-critical infrastructure in Rust, with upstream contributions spanning post-quantum cryptography, aerospace and spacecraft software, embedded systems, distributed systems, and portable runtimes.
+**Maintainer appointment**: Governance PR #362 — Add Orlando as liboqs-rust Maintainer [vote]
+I build secure, reliability-critical infrastructure in Rust, with current work spanning post-quantum cryptography, distributed systems, embedded/aerospace software, and portable runtimes.
 
 I am developing **Quantum-Safe Agentic Infrastructure** — a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
 
@@ -31,6 +30,23 @@ Systems and security engineer with 9+ years of experience across infrastructure,
 ---
 
 ## Selected Upstream Engineering Impact
+
+### Open Quantum Safe — Post-Quantum Cryptography
+
+Contributed across liboqs, liboqs-rust, and the QR-UOV integration repository, covering post-quantum signature integration, shared cryptographic backends, Rust API exposure, metadata generation, portability, and importer reliability.
+
+**Selected upstream contributions:**
+
+- **liboqs PR #2582** — Add QR-UOV signature schemes
+- **liboqs PR #2642** — Use the common AES backend for QR-UOV
+- **liboqs PR #2643** — Deduplicate QR-UOV signature wrappers
+- **liboqs PR #2654** — Fix importer handling for empty SIG/KEM implementation targets
+- **liboqs-rust PR #310** — Implement RustCrypto traits for signatures
+- **liboqs-rust PR #312** — Expose padded Falcon signature algorithms
+- **liboqs-rust PR #313** — Generate signature algorithm metadata from liboqs
+- **qruov/round3-liboqs PR #1** — Add liboqs integration support for QR-UOV
+
+**Engineering focus:** Post-quantum cryptography, C/Rust interoperability, cryptographic integration, API design, code generation, portability, and cross-platform reliability.
 
 ### QGroundControl / PX4 — MAVLink Flight-Mode Reliability
 
@@ -68,25 +84,7 @@ The implementation includes reusable local tooling and GitHub Actions integratio
 
 **Engineering focus:** Rust, MAVLink, CI/CD, build-performance analysis, artifact-size regression tracking, and developer infrastructure.
 
-### Open Quantum Safe — Post-Quantum Cryptography
-
-Contributed across liboqs, liboqs-rust, and the QR-UOV integration repository, covering post-quantum signature integration, shared cryptographic backends, Rust API exposure, metadata generation, portability, and importer reliability.
-
-**Selected upstream contributions:**
-
-- **liboqs PR #2582** — Add QR-UOV signature schemes
-- **liboqs PR #2642** — Use the common AES backend for QR-UOV
-- **liboqs PR #2643** — Deduplicate QR-UOV signature wrappers
-- **liboqs PR #2654** — Fix importer handling for empty SIG/KEM implementation targets
-- **liboqs-rust PR #310** — Implement RustCrypto traits for signatures
-- **liboqs-rust PR #312** — Expose padded Falcon signature algorithms
-- **liboqs-rust PR #313** — Generate signature algorithm metadata from liboqs
-- **qruov/round3-liboqs PR #1** — Add liboqs integration support for QR-UOV
-
-**Engineering focus:** Post-quantum cryptography, C/Rust interoperability, cryptographic integration, API design, code generation, portability, and cross-platform reliability.
-
 ### Ericsson ecChronos — Distributed Systems Reliability
-
 Contributed upstream fixes addressing scheduler concurrency, saturation backoff, and distributed scheduling behavior.
 
 **Selected contributions:**
@@ -237,17 +235,6 @@ I contribute to systems projects where correctness, portability, security, and r
 
 ---
 
-## My Focus Areas
-
-- **Rust Systems Engineering**
-- **Post-Quantum Cryptography**
-- **Secure Key Management & HSMs**
-- **Distributed Systems Reliability**
-- **Embedded & Aerospace Systems**
-- **Secure Runtime / WASM Infrastructure**
-
----
-
 ## Featured Crates & Projects
 
 ### `quantum-safe-agentic-infrastructure`
@@ -295,18 +282,17 @@ Multi-signature wallet with SPHINCS+, quantum-resistant HSM signing, and hybrid 
 
 ## Open to Collaboration & Opportunities
 
-Open to international engineering opportunities in Rust systems development, post-quantum cryptography, distributed systems, and embedded/aerospace software.
+Open to international engineering opportunities and research collaborations in:
 
-Available for remote collaboration and relocation opportunities, particularly in Switzerland and other European technology hubs.
-
-I'm interested in:
-
-- Rust systems engineering
-- Post-quantum cryptography and secure infrastructure
+- Applied cryptography and post-quantum security
+- Rust systems and infrastructure engineering
+- Secure communications and cryptographic protocols
 - Distributed systems and reliability engineering
-- Aerospace, embedded, and autonomous systems
-- Secure runtimes, WASM, and edge infrastructure
-- Research collaborations involving PQC and systems security
+- Embedded, aerospace, and autonomous systems
+
+Available for remote collaboration and employer-sponsored international relocation, particularly in Germany, Switzerland, and the Netherlands.
+
+Interested in building secure, reliable, and deployable infrastructure that addresses real-world security and emerging technology challenges.
 
 Email: `orlychikka@gmail.com`  
 LinkedIn: (https://linkedin.com/in/orlando-t-3893416b?)  
