@@ -7,6 +7,7 @@ I am a maintainer of [liboqs-rust](https://github.com/open-quantum-safe/liboqs-r
 **Official maintainer appointment:** [OQS Technical Steering Committee — Governance PR #362](https://github.com/open-quantum-safe/tsc/pull/362)
 
 **Appointment confirmation:** [Successful governance reconciliation](https://github.com/open-quantum-safe/tsc/pull/362#issuecomment-7036521942)
+
 I build secure, reliability-critical infrastructure in Rust, with current work spanning post-quantum cryptography, distributed systems, embedded/aerospace software, and portable runtimes.
 
 I am developing **Quantum-Safe Agentic Infrastructure** — a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
