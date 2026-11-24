@@ -30,7 +30,7 @@ async fn main() -> Result<()> {
     println!("Searching merged PRs for {username}...");
 
     let client = reqwest::Client::new();
-    let query = format!("is:pr is:merged author:{username}");
+    let query = format!("is:pr is:merged is:public author:{username}");
 
     let mut all_prs = Vec::new();
 
