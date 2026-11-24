@@ -1,19 +1,22 @@
 ## About
 
-**Rust Systems Engineer | Post-Quantum Security | Distributed & Autonomous Systems**
+**liboqs-rust Maintainer — Open Quantum Safe (OQS) | Rust Systems Engineer | Applied Cryptography | Distributed & Autonomous Systems**
 
-I build secure, reliability-critical infrastructure in Rust, with current work spanning post-quantum cryptography, distributed systems, embedded/aerospace software, and portable runtimes.
+I am a maintainer of liboqs-rust and a member of Open Quantum Safe (OQS), contributing to secure, portable, and maintainable post-quantum cryptographic infrastructure.
 
-My open-source work includes contributions across post-quantum cryptography, aerospace/telemetry, distributed reliability, and systems software.
+My engineering work focuses on cryptographic correctness, Rust/C interoperability, API design, cross-platform reliability, and secure systems architecture.
 
-I am developing **Quantum-Safe Agentic Infrastructure**: a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
+I build reliability-critical infrastructure in Rust, with upstream contributions spanning post-quantum cryptography, aerospace and spacecraft software, embedded systems, distributed systems, and portable runtimes.
+
+I am developing **Quantum-Safe Agentic Infrastructure** — a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
 
 **Current focus**
-- Post-quantum cryptography and secure key infrastructure
+- Applied post-quantum cryptography and secure key infrastructure
+- liboqs-rust maintainership and cryptographic interoperability
 - Rust systems and runtime engineering
 - Distributed systems reliability
 - Embedded, aerospace, and autonomous systems
-- Secure sandboxed execution
+- Portable cryptographic acceleration and secure execution
 
 Manifesto: [quantum-safe-agentic-infrastructure](https://github.com/0rlych1kk4/quantum-safe-agentic-infrastructure)
 
