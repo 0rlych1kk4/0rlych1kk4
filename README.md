@@ -2,9 +2,9 @@
 
 **liboqs-rust Maintainer — Open Quantum Safe (OQS) | Rust Systems Engineer | Applied Cryptography | Distributed & Autonomous Systems**
 
-I am a maintainer of liboqs-rust and a member of Open Quantum Safe (OQS), serving on both the liboqs-rust maintainers and release managers teams.
+I am a maintainer of [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) and a member of Open Quantum Safe (OQS), serving on both the liboqs-rust maintainers and release managers teams.
 
-**Maintainer appointment**: Governance PR #362 — Add Orlando as liboqs-rust Maintainer [vote]
+**Maintainer appointment:** Governance PR #362 — Add Orlando as liboqs-rust Maintainer [vote]
 I build secure, reliability-critical infrastructure in Rust, with current work spanning post-quantum cryptography, distributed systems, embedded/aerospace software, and portable runtimes.
 
 I am developing **Quantum-Safe Agentic Infrastructure** — a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
