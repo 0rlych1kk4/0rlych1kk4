@@ -8,7 +8,9 @@ I am a maintainer of [liboqs-rust](https://github.com/open-quantum-safe/liboqs-r
 
 **Appointment confirmation:** [Successful governance reconciliation](https://github.com/open-quantum-safe/tsc/pull/362#issuecomment-7036521942)
 
-I build secure, reliability-critical infrastructure in Rust, with current work spanning post-quantum cryptography, distributed systems, embedded/aerospace software, and portable runtimes.
+I build secure, reliability-critical infrastructure in Rust, with upstream contributions spanning Open Quantum Safe, NASA SpaceWASM, MAVLink, QGroundControl, spacecraft software, and Ericsson distributed systems infrastructure.
+
+My engineering focus includes applied post-quantum cryptography, secure execution environments, embedded systems, portable runtimes, and distributed systems reliability.
 
 I am developing **Quantum-Safe Agentic Infrastructure** — a practical architecture for securing long-lived, autonomous, and AI-driven systems in a post-quantum environment.
 
@@ -50,6 +52,18 @@ Contributed across liboqs, liboqs-rust, and the QR-UOV integration repository, c
 - **qruov/round3-liboqs PR #1** — Add liboqs integration support for QR-UOV
 
 **Engineering focus:** Post-quantum cryptography, C/Rust interoperability, cryptographic integration, API design, code generation, portability, and cross-platform reliability.
+
+### NASA SpaceWASM — WebAssembly & Benchmark Reliability
+
+**Merged upstream:** [NASA SpaceWASM PR #208](https://github.com/nasa/spacewasm/pull/208)
+
+Implemented a fix for silent `cargo nm` subprocess failures in the SpaceWASM benchmark pipeline, preserving non-zero exit status and diagnostic output while preventing the creation of invalid benchmark artifacts.
+
+Validated the change using focused mocked regression checks across five benchmark target configurations, including ARM Cortex-M4, Cortex-M7, and RISC-V.
+
+**Independent validation:** Maintainer-approved and merged into NASA's `main` branch with 20 GitHub checks passed.
+
+**Engineering focus:** WebAssembly infrastructure, embedded benchmark reliability, subprocess error handling, cross-target validation, and CI correctness.
 
 ### QGroundControl / PX4 — MAVLink Flight-Mode Reliability
 
